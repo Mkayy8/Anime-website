@@ -1,0 +1,70 @@
+
+
+body {
+    background-image: url(images/anime2.jpg);
+    background-size: cover; 
+    text-align: left;
+}
+
+#container {
+    margin: auto;
+    width: 50%;
+    border: 3px darkblue;
+    padding: 30px;
+    background-color: white;
+    padding-top: 10px ;
+    height: 900px;
+  }
+
+#header {
+    font-size: xxx-large;
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    font-weight: bold;
+}
+
+#header2 {
+    font-family: 'Dongle', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+#image1 {
+    position: relative;
+    top: -210px;
+
+
+}
+
+#image2 {
+    position: relative;
+    top: 120px;
+
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    float: right;
+    height: 300px;
+  }
+
+
+
+.card {
+    top: -157px;
+    float: right;
+    right: -200px;
+
+
+}
+
+#search_a {
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+}
